@@ -1,0 +1,51 @@
+OrderID,CustomerName,Restaurant,FoodItem,Category,Quantity,Price,City,PaymentMethod,DeliveryTime,OrderDate
+2001,Akash,Dominos,Farmhouse Pizza,Pizza,2,599,Chennai,UPI,32,2026-01-01
+2002,Nivetha,KFC,Chicken Bucket,Fast Food,1,699,Madurai,Card,40,2026-01-02
+2003,Pranav,A2B,Mini Meals,South Indian,2,240,Coimbatore,Cash,28,2026-01-03
+2004,Keerthana,Burger King,Veg Whopper,Burger,3,179,Salem,UPI,25,2026-01-04
+2005,Sanjay,Subway,Veg Delight,Healthy,2,249,Trichy,Card,30,2026-01-05
+2006,Harish,Pizza Hut,Cheese Pizza,Pizza,1,499,Erode,Cash,27,2026-01-06
+2007,Aarthi,McDonalds,McAloo Tikki,Burger,2,189,Chennai,UPI,24,2026-01-07
+2008,Rohit,A2B,Idli Combo,South Indian,3,180,Madurai,Card,20,2026-01-08
+2009,Divya,KFC,Zinger Burger,Fast Food,2,249,Tirunelveli,UPI,34,2026-01-09
+2010,Vikram,Subway,Paneer Tikka Sub,Healthy,1,279,Vellore,Cash,29,2026-01-10
+2011,Meena,Dominos,Peppy Paneer,Pizza,2,549,Hosur,UPI,31,2026-01-11
+2012,Raj,A2B,Masala Dosa,South Indian,2,160,Chennai,Card,22,2026-01-12
+2013,Kiran,Burger King,Crispy Veg Burger,Burger,3,149,Salem,Cash,26,2026-01-13
+2014,Pooja,Pizza Hut,Veg Supreme,Pizza,1,599,Trichy,UPI,35,2026-01-14
+2015,Surya,KFC,Hot Wings,Fast Food,2,299,Erode,Card,33,2026-01-15
+2016,Nisha,Subway,Corn & Peas Sub,Healthy,2,259,Chennai,UPI,28,2026-01-16
+2017,Arun,Dominos,Margherita,Pizza,3,399,Madurai,Cash,25,2026-01-17
+2018,Kavya,A2B,Pongal,South Indian,2,150,Coimbatore,Card,21,2026-01-18
+2019,Vignesh,McDonalds,McVeggie,Burger,1,199,Hosur,UPI,27,2026-01-19
+2020,Shalini,KFC,Popcorn Chicken,Fast Food,2,329,Vellore,Cash,36,2026-01-20
+2021,Gokul,Subway,Veg Seekh Sub,Healthy,1,289,Chennai,Card,30,2026-01-21
+2022,Sowmya,Dominos,Mexican Green Wave,Pizza,2,649,Salem,UPI,34,2026-01-22
+2023,Rakesh,Pizza Hut,Paneer Pizza,Pizza,2,629,Trichy,Cash,31,2026-01-23
+2024,Harini,A2B,Lemon Rice,South Indian,3,140,Erode,Card,18,2026-01-24
+2025,Ajith,Burger King,Paneer King,Burger,2,229,Chennai,UPI,26,2026-01-25
+2026,Ramya,KFC,Chicken Popcorn,Fast Food,1,249,Madurai,Card,29,2026-01-26
+2027,Karthi,Subway,Hara Bhara Sub,Healthy,2,269,Coimbatore,Cash,27,2026-01-27
+2028,Latha,Dominos,Cheese Burst,Pizza,1,699,Tirunelveli,UPI,38,2026-01-28
+2029,Manoj,A2B,Curd Rice,South Indian,2,120,Vellore,Card,19,2026-01-29
+2030,Priya,McDonalds,McSpicy Paneer,Burger,2,249,Hosur,Cash,30,2026-01-30
+2031,Sathish,Pizza Hut,Tandoori Paneer,Pizza,2,679,Chennai,UPI,33,2026-01-31
+2032,Deepa,KFC,Chicken Strips,Fast Food,3,399,Salem,Card,35,2026-02-01
+2033,Yogesh,Subway,Italian BMT,Healthy,1,349,Trichy,Cash,32,2026-02-02
+2034,Bharath,A2B,Veg Meals,South Indian,2,220,Erode,UPI,24,2026-02-03
+2035,Sneha,Dominos,Double Cheese,Pizza,1,599,Chennai,Card,29,2026-02-04
+2036,Rajesh,Burger King,Crunchy Veg,Burger,2,199,Madurai,Cash,25,2026-02-05
+2037,Anu,KFC,Chicken Burger,Fast Food,2,269,Coimbatore,UPI,31,2026-02-06
+2038,Mohan,Subway,Paneer Delight,Healthy,2,299,Vellore,Card,27,2026-02-07
+2039,Rekha,A2B,Rava Dosa,South Indian,1,130,Hosur,Cash,20,2026-02-08
+2040,Naveen,Pizza Hut,Corn Pizza,Pizza,2,549,Chennai,UPI,30,2026-02-09
+2041,Gayathri,Dominos,Veg Extravaganza,Pizza,2,729,Madurai,Card,36,2026-02-10
+2042,Siva,KFC,Crispy Chicken,Fast Food,1,349,Salem,Cash,34,2026-02-11
+2043,Janani,A2B,Ghee Roast,South Indian,2,180,Trichy,UPI,22,2026-02-12
+2044,Dinesh,McDonalds,McChicken,Burger,2,229,Erode,Card,28,2026-02-13
+2045,Preethi,Subway,Veggie Patty,Healthy,1,259,Chennai,Cash,26,2026-02-14
+2046,Kishore,Dominos,Paneer Pizza,Pizza,2,649,Vellore,UPI,35,2026-02-15
+2047,Lavanya,A2B,Tomato Rice,South Indian,3,150,Hosur,Card,19,2026-02-16
+2048,Ramesh,Burger King,Classic Veg Burger,Burger,2,169,Coimbatore,Cash,24,2026-02-17
+2049,Swetha,KFC,Chicken Roll,Fast Food,2,279,Tirunelveli,UPI,29,2026-02-18
+2050,Arvind,Subway,Paneer Tikka Sub,Healthy,2,299,Chennai,Card,31,2026-02-19

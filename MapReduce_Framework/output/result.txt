@@ -1,0 +1,6 @@
+Category,TotalOrders
+Burger,9
+Fast Food,9
+Healthy,9
+Pizza,13
+South Indian,10
