@@ -54,6 +54,7 @@ The system receives logs, classifies them into INFO, WARNING, ERROR, and DEBUG c
 - Cloud log storage
 - AI-based log analysis
 
+
  Author
 A. Dhivya Dharshni  
 Bachelor of Computer Applications (BCA)
